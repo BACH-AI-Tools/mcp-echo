@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "echo": {
+      "command": "python",
+      "args": [
+        "F:\\MCP\\echo\\server.py"
+      ]
+    }
+  }
+}
