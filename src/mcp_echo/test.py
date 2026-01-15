@@ -5,6 +5,7 @@ Echo MCP Server
 """
 
 import asyncio
+import mcp
 from mcp.server import Server
 from mcp.server.stdio import stdio_server
 from mcp.types import Tool, TextContent
